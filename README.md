@@ -5,7 +5,7 @@ See the [wiki](https://github.com/jasondebolt/React-Redux-Book-App/wiki) for an 
 
 #### Getting Started
 ```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
+> git clone https://github.com/jasondebolt/React-Redux-Book-App.git
 > cd React-Redux-Book-App
 > npm install
 > npm start
